@@ -1,8 +1,0 @@
-
-function piResponse() {
-	piSetCookie('pi_opt_in577103', 'false', 3650);
-	piSetCookie('visitor_id577103', '', 3650);
-}
-piResponse();
-
-
