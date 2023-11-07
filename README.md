@@ -1,6 +1,8 @@
 # Online Retail Customer Segmentation RFM Analysis
 Customer Segmentation based on RFM using  K-Means & Hierarchical Clustering
 
+### [Kaggle Notebook](https://www.kaggle.com/code/manishkr1754/online-retail-customer-segmentation-rfm-analysis)
+
 ## Process Flow of Project
 - Understanding Problem Statement
 - Understanding concept of RFM Analysis
